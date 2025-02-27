@@ -18,3 +18,4 @@ chmod +x 01_server_performance_stats.sh
 ### Execute the script
 ```bash
 ./01_server_performance_stats.sh
+```
