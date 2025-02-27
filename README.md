@@ -19,3 +19,8 @@ chmod +x 01_server_performance_stats.sh
 ```bash
 ./01_server_performance_stats.sh
 ```
+
+### The Project's source is:
+```bash
+https://roadmap.sh/projects/server-stats
+```
